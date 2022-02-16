@@ -1,0 +1,14 @@
+.cover__overlay{
+  background-color:rgba(42, 44, 47, .3);
+  max-height: 740px;
+  width: 100%;
+  display: block;
+  text-decoration: none;
+  color: white;
+  z-index: 1;
+  transition: background-color .5s ease;
+  cursor: pointer;
+}
+.cover__overlay:hover{
+  background-color:rgba(42, 44, 47, .8) ;
+}

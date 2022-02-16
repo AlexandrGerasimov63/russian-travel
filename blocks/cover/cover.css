@@ -1,0 +1,10 @@
+.cover{
+  display: block;
+  margin:92px auto 0;
+  width: 100%;
+  background-image: url('../../images/cover__background.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  z-index: 0;
+}

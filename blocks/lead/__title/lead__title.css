@@ -1,0 +1,12 @@
+.lead__title{
+  display: block;
+  margin: 0 auto;
+  max-width: 720px;
+  /* min-width: 288px;
+  width: 100%; */
+  text-align: center;
+  color: white;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 100px;
+}
