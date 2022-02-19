@@ -1,7 +1,5 @@
-.lead__image{
-  display: block;
-  height: auto;
+.lead__image {
+  /* margin-bottom: 5px; */
   width: 100%;
-  object-fit: cover;
-  margin-top: 64px;
+
 }

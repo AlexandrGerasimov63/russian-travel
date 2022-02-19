@@ -3,6 +3,6 @@
   list-style: none;
   padding: 0;
 }
-.place__paragraphs:last-child{
+.place__paragraphs:last-of-type{
   margin-bottom: 0;
 }

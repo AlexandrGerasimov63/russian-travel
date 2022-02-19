@@ -1,9 +1,30 @@
 .header{
+  display: flex;
   max-width: 1184px;
-  min-width: 288px;
+  /* min-width: 288px; */
+  width: 92.5%; /*1184/1280*100%*/
   margin: 0 auto;
   padding-top: 28px; ;
-  display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
+}
+@media screen and (max-width: 1279px) {
+  .header {
+    width: calc(100% - 96px);
+    padding-top: 28px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    width: calc(100% - 32px);
+    min-height: 42px;
+    padding-top: 16px;
+  }
 }

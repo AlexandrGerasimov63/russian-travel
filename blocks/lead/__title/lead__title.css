@@ -1,12 +1,23 @@
-.lead__title{
-  display: block;
-  margin: 0 auto;
+.lead__title {
   max-width: 720px;
-  /* min-width: 288px;
-  width: 100%; */
-  text-align: center;
-  color: white;
+  margin: 0 auto 32px;
   font-size: 96px;
-  font-weight: 900;
   line-height: 100px;
+  font-weight: 900;
+  /* text-align: center; */
 }
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    max-width: calc(100% - 32px);
+    margin: 0 auto 16px;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+  }
+}
+/* @media  screen and (max-width: 321px) {
+  .lead__title{
+    min-width: 288px;
+  }
+} */
