@@ -20,4 +20,6 @@
 * Git
 * Figma
 
+**Ссылка на проект:**
 
+[Путешествие по России](https://alexandrgerasimov63.github.io/russian-travel/)
