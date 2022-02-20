@@ -6,18 +6,18 @@
 
 **Функционал:**
 
-*Адаптивный дизайн
-*Сложная сетка в разделе places и photo-grid
-*Трансформация элементов страницы посредством CSS
+* Адаптивный дизайн
+* Сложная сетка в разделе places и photo-grid
+* Трансформация элементов страницы посредством CSS
 
 **Технологии**
 
-*Flexbox
-*Grid Layout
-*Positioning Elements
-*BEM Methodology
-*File Structure and File Paths (Nested BEM)
-*Git
-*Figma
+* Flexbox
+* Grid Layout
+* Positioning Elements
+* BEM Methodology
+* File Structure and File Paths (Nested BEM)
+* Git
+* Figma
 
 
