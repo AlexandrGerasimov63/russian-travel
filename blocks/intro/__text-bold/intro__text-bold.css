@@ -1,0 +1,7 @@
+.intro__text-bold{
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+.intro__text-bold:last-child{
+  margin-bottom: 0px;
+}

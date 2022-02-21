@@ -25,5 +25,11 @@
   .photo-grid {
     width: calc(100% - 32px);
     row-gap: 12px;
+    margin: 88px auto 0;
+  }
+}
+@media screen and (max-width: 320px) {
+  .photo-grid {
+    margin: 64px auto 0;
   }
 }
