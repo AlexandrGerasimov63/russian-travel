@@ -1,7 +1,7 @@
-.intro__text-bold{
+.intro__span-bold{
   font-weight: bold;
   margin-bottom: 1px;
 }
-.intro__text-bold:last-child{
+.intro__span-bold:last-child{
   margin-bottom: 0px;
 }
